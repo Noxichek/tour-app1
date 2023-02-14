@@ -184,6 +184,9 @@
   },
   "defaultProject": "tour-app",
   "cli": {
-    "analytics": "6ea2cef2-1676-4fc0-9e30-c6bb3ec3e82f"
+    "analytics": "6ea2cef2-1676-4fc0-9e30-c6bb3ec3e82f",
+    "cache": {
+      "enabled": false
+    }
   }
 }
