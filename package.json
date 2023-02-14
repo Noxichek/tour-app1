@@ -40,6 +40,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^18.13.0",
     "ajv": "^7.2.4",
+    "angular-cli-ghpages": "^1.0.5",
     "codelyzer": "^6.0.2",
     "jasmine-core": "~4.5.0",
     "jasmine-spec-reporter": "~7.0.0",
